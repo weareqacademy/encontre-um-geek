@@ -14,17 +14,17 @@
                 },
                 {
                     "id": 2,
-                    "Cristiano Ronaldo",
+                    "name": "Cristiano Ronaldo",
                     "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/cr7.png"
                 },
                 {
                     "id": 3,
-                    "Lionel Messi",
+                    "name": "Lionel Messi",
                     "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/messi.png"
                 },
                 {
                     "id": 4,
-                    "Kylian Mbappé",
+                    "name": "Kylian Mbappé",
                     "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/kylian.png"
                 }
             ]
