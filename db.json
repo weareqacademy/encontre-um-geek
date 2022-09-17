@@ -5,22 +5,22 @@
             "name": "Fernando Papito",
             "latitude": -23.564070719152873,
             "longitude": -46.814678013324745,
-            "images": [
+            "stikers": [
                 {
                     "id": 1,
-                    "url": "https://fakeimg.pl/200x250/121214/"
+                    "image": "neymar.png"
                 },
                 {
                     "id": 2,
-                    "url": "https://fakeimg.pl/200x250/121214/"
+                    "image": "cr7.pnh"
                 },
                 {
                     "id": 3,
-                    "url": "https://fakeimg.pl/200x250/121214/"
+                    "image": "messi.png"
                 },
                 {
                     "id": 4,
-                    "url": "https://fakeimg.pl/200x250/121214/"
+                    "image": "kylian.png"
                 }
             ]
         }
