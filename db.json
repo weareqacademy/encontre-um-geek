@@ -8,19 +8,19 @@
             "stickers": [
                 {
                     "id": 1,
-                    "image": "neymar.png"
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/neymar.png"
                 },
                 {
                     "id": 2,
-                    "image": "cr7.pnh"
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/cr7.png"
                 },
                 {
                     "id": 3,
-                    "image": "messi.png"
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/messi.png"
                 },
                 {
                     "id": 4,
-                    "image": "kylian.png"
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/kylian.png"
                 }
             ]
         }
