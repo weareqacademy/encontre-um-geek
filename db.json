@@ -6,6 +6,7 @@
             "latitude": -23.564070719152873,
             "longitude": -46.814678013324745,
             "map_icon": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/neymar.png",
+            "whatsapp": "11999999999",
             "stickers": [
                 {
                     "id": 1,
