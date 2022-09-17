@@ -5,23 +5,26 @@
             "name": "Fernando Papito",
             "latitude": -23.564070719152873,
             "longitude": -46.814678013324745,
-            "map_icon": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/neymar.png",
             "whatsapp": "11999999999",
             "stickers": [
                 {
                     "id": 1,
+                    "name": "Neymar Jr",
                     "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/neymar.png"
                 },
                 {
                     "id": 2,
+                    "Cristiano Ronaldo",
                     "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/cr7.png"
                 },
                 {
                     "id": 3,
+                    "Lionel Messi",
                     "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/messi.png"
                 },
                 {
                     "id": 4,
+                    "Kylian Mbappé",
                     "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/kylian.png"
                 }
             ]
