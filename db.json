@@ -1,7 +1,7 @@
 {
     "users": [
         {
-            "_id": "1",
+            "id": "1",
             "name": "Fernando Papito",
             "latitude": -23.564070719152873,
             "longitude": -46.814678013324745
@@ -9,7 +9,7 @@
     ],
     "geeks": [
         {
-            "_id": "630b691d4ead57dec4d6392b",
+            "id": "630b691d4ead57dec4d6392b",
             "name": "Fernando Papito",
             "whatsapp": "11999999999",
             "desc": "Faço instalação e reinstalação de sistemas operacionais como Windows, Linux e MacOs. Além disso, consigo remover o Baidu no seu computador.",
@@ -17,7 +17,7 @@
             "price": 100
         },
         {
-            "_id": "630b69734ead57dec4d63930",
+            "id": "630b69734ead57dec4d63930",
             "name": "João Lucas",
             "whatsapp": "11999999999",
             "desc": "Faço conserto de qualquer impressora. Matricial a fita, Matricial a fita colorida, a laser, a jato de tinta e também impressora 3D.",
