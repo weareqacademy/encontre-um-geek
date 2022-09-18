@@ -1,4 +1,5 @@
 {
   "/api/": "/",
-  "/users/:desc": "/users?desc=:desc"
+  "/users/:desc": "/users?desc=:desc",
+  "/users/:tags": "/users?tags=:tags",
 }
