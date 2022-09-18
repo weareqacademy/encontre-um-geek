@@ -69,8 +69,19 @@
             "region": "Mexico",
             "created_on": "1980",
             "whatsapp": "11999999999",
-            "tags": ["maradona", "dolares"],
-            "stickers": []
+            "tags": ["maradona", "dolares", "rodolfo rodriguez", "rodolfo", "rodriguez"],
+            "stickers": [
+                {
+                    "id": 1,
+                    "name": "Maradona",
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/maradona.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Rodolfo Rodriguez",
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/rodolfo-rodriguez.png"
+                },
+            ]
         }
     ],
     "geeks": [
