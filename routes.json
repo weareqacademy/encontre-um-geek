@@ -1,5 +1,4 @@
 {
   "/api/": "/",
-  "/geeks/:work": "/geeks?work=:work",
-  "/geeks/:desc": "/geeks?desc=:desc"
+  "/users/:desc": "/users?desc=:desc"
 }
