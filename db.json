@@ -1,13 +1,13 @@
 {
     "users": [
         {
-            "id": "1",
+            "id": 1,
             "name": "Fernando Papito",
-            "desc": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-            "price": 299.99,
-            "badge": "Gold",
+            "desc": "Coleciono figurinhas desde a copa de 1994 quando o Brasil foi Tretaaaaaaaaaaa",
+            "region": "Osasco",
+            "created_on": "2020",
             "whatsapp": "11999999999",
-            "tags": ["neymar", "cr7", "cristiano ronaldo", "messi", "kylian"],
+            "tags": ["neymar", "cr7", "cristiano ronaldo", "messi", "kylian", "jr"],
             "stickers": [
                 {
                     "id": 1,
@@ -30,6 +30,47 @@
                     "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/kylian.png"
                 }
             ]
+        },
+        {
+            "id": 2,
+            "name": "João Lucas",
+            "desc": "Faço venda e troca de figurinhas da Copa de 2022. Além disso mangás e HQs seminovas.",
+            "region": "São Paulo",
+            "created_on": "2021",
+            "whatsapp": "11999999999",
+            "tags": ["neymar", "cr7", "cristiano ronaldo", "messi", "legend", "vinicius", "jr"],
+            "stickers": [
+                {
+                    "id": 1,
+                    "name": "Vinícius Jr",
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/vinicius-jr.png"
+                },
+                {
+                    "id": 2,
+                    "name": "Cristiano Ronaldo",
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/cr7.png"
+                },
+                {
+                    "id": 3,
+                    "name": "Lionel Messi",
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/messi.png"
+                },
+                {
+                    "id": 4,
+                    "name": "Neymar Jr",
+                    "url": "https://raw.githubusercontent.com/weareqacademy/mock-api/main/stickers/neymar-legend.png"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Seu Madruga",
+            "desc": "Se suas figurinhas for em dolares, posso penhoar meu ferro para trocar com você. De brinde você ganha um sanduíche de presento.",
+            "region": "Mexico",
+            "created_on": "1980",
+            "whatsapp": "11999999999",
+            "tags": ["maradona", "dolares"],
+            "stickers": []
         }
     ],
     "geeks": [
